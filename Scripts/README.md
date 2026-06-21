@@ -2,6 +2,10 @@
 
 This folder contains the data wrangling, analyses, and visualizations used to evaluate spatial mimicry patterns among residential yards in Chicago.
 
+Spatial Mimicry and Front Yard Management in Chicago
+
+The project examined spatial autocorrelation and mimicry patterns among more than 800 residential yards across Chicago neighborhoods using Mantel tests, Moran's I analyses, and agent-based modeling outputs.
+
 ## Folder Organization
 
 ### MantelGlobal
@@ -19,6 +23,10 @@ Global Moran's I analyses used to evaluate overall spatial autocorrelation patte
 ### MoransLocal
 
 Local Moran's I analyses used to identify spatial clusters and neighborhood-level autocorrelation patterns.
+
+### Graphs
+
+Visualizations and figures generated from spatial analyses and simulation outputs.
 
 ## Contents
 
